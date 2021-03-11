@@ -1,4 +1,4 @@
-# Desafio 1 do Ignite Trilha NodeJS
+# Desafio 2 do Ignite Trilha NodeJS
 
 
 <h3 align="center">
