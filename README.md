@@ -1,5 +1,6 @@
 # Desafio 2 do Ignite Trilha NodeJS
 
+![capa_ignite](https://user-images.githubusercontent.com/64935593/111043262-58e2a380-8420-11eb-9042-0153975d8870.png)
 
 <h3 align="center">
   Desafio 02: Trabalhando com Middlewares
